@@ -1,5 +1,5 @@
-# sds_challenges
-A collection of SDS Challenges <br /><br />
+# SDS Club's Monthly Challenges 📊
+Learn through continuous learning experiences with an on-going experience. Challenges will bring your Data Science skills to the next level.<br /><br />
 
 ## **SDS Challenge #1** - Flight Cancellations
 
