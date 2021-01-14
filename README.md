@@ -27,3 +27,20 @@ Learn through continuous learning experiences with an on-going experience. Chall
         ├── pred_jobs.csv (dataset to predict on)
         └── public_jobs.csv (dataset to train and test)
 ```
+
+## **SDS Challenge #4** - Hostel Listings
+
+```
+    ├── challenge.ipynb (challenge)
+    ├── data
+        ├── pred_listings.csv (dataset to predict on)
+        └── public_listings.csv (dataset to train and test)
+```
+## **SDS Challenge #5** - Stack Overflow Questions
+
+```
+    ├── challenge.ipynb (challenge)
+    ├── data
+        ├── pred_questions.csv (dataset to predict on)
+        └── public_questions.csv (dataset to train and test)
+```
