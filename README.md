@@ -53,3 +53,12 @@ Learn through continuous learning experiences with an on-going experience. Chall
         ├── pred_appointments.csv (dataset to predict on)
         └── public_appointments.csv (dataset to train and test)
 ```
+
+## **SDS Challenge #7** - Laptop Prices
+
+```
+    ├── challenge.ipynb (challenge)
+    ├── data
+        ├── pred_laptops.csv (dataset to predict on)
+        └── public_laptops.csv (dataset to train and test)
+```
