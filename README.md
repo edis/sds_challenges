@@ -1,57 +1,22 @@
 # SDS Club's Monthly Challenges 📊
 Learn through continuous learning experiences with an on-going experience. Challenges will bring your Data Science skills to the next level.<br /><br />
 
-## **Challenge #1** - Flight Cancellations
-
-```
-    ├── challenge.ipynb (challenge problem)
-    ├── data
-        ├── pred_flights.csv (dataset to predict on)
-        └── public_flights.csv (dataset to train and test)
-```
-
-## **Challenge #2** - Used Cars Prices
-
-```
-    ├── challenge.ipynb (challenge problem)
-    ├── data
-        ├── pred_cars.csv (dataset to predict on)
-        └── public_cars.csv (dataset to train and test)
-```
-
-## **Challenge #3** - Job Postings
-
-```
-    ├── challenge.ipynb (challenge problem)
-    ├── data
-        ├── pred_jobs.csv (dataset to predict on)
-        └── public_jobs.csv (dataset to train and test)
-```
-
-## **SDS Challenge #4** - Hostel Listings
+## **SDS Challenge #9** - Email Fraud
 
 ```
     ├── challenge.ipynb (challenge)
     ├── data
-        ├── pred_listings.csv (dataset to predict on)
-        └── public_listings.csv (dataset to train and test)
+        ├── pred_emails.csv (dataset to predict on)
+        └── public_emails.csv (dataset to train and test)
 ```
-## **SDS Challenge #5** - Stack Overflow Questions
+
+## **SDS Challenge #8** - Song Popularity 
 
 ```
     ├── challenge.ipynb (challenge)
     ├── data
-        ├── pred_questions.csv (dataset to predict on)
-        └── public_questions.csv (dataset to train and test)
-```
-
-## **SDS Challenge #6** - Medical Appointment No Shows
-
-```
-    ├── challenge.ipynb (challenge)
-    ├── data
-        ├── pred_appointments.csv (dataset to predict on)
-        └── public_appointments.csv (dataset to train and test)
+        ├── pred_songs.csv (dataset to predict on)
+        └── public_songs.csv (dataset to train and test)
 ```
 
 ## **SDS Challenge #7** - Laptop Prices
@@ -63,13 +28,57 @@ Learn through continuous learning experiences with an on-going experience. Chall
         └── public_laptops.csv (dataset to train and test)
 ```
 
-
-## **SDS Challenge #8** - Song Popularity 
+## **SDS Challenge #6** - Medical Appointment No Shows
 
 ```
     ├── challenge.ipynb (challenge)
     ├── data
-        ├── pred_songs.csv (dataset to predict on)
-        └── public_songs.csv (dataset to train and test)
+        ├── pred_appointments.csv (dataset to predict on)
+        └── public_appointments.csv (dataset to train and test)
+```
+
+## **SDS Challenge #5** - Stack Overflow Questions
+
+```
+    ├── challenge.ipynb (challenge)
+    ├── data
+        ├── pred_questions.csv (dataset to predict on)
+        └── public_questions.csv (dataset to train and test)
+```
+## **SDS Challenge #4** - Hostel Listings
+
+```
+    ├── challenge.ipynb (challenge)
+    ├── data
+        ├── pred_listings.csv (dataset to predict on)
+        └── public_listings.csv (dataset to train and test)
+```
+
+## **Challenge #3** - Job Postings
+
+```
+    ├── challenge.ipynb (challenge problem)
+    ├── data
+        ├── pred_jobs.csv (dataset to predict on)
+        └── public_jobs.csv (dataset to train and test)
+```
+
+
+## **Challenge #2** - Used Cars Prices
+
+```
+    ├── challenge.ipynb (challenge problem)
+    ├── data
+        ├── pred_cars.csv (dataset to predict on)
+        └── public_cars.csv (dataset to train and test)
+```
+
+## **Challenge #1** - Flight Cancellations
+
+```
+    ├── challenge.ipynb (challenge problem)
+    ├── data
+        ├── pred_flights.csv (dataset to predict on)
+        └── public_flights.csv (dataset to train and test)
 ```
 
