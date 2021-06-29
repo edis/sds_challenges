@@ -1,6 +1,19 @@
 # SDS Club's Monthly Challenges 📊
 Learn through continuous learning experiences with an on-going experience. Challenges will bring your Data Science skills to the next level.<br /><br />
 
+
+**NOTE: answers to previous challenges will be added to the `answers` folder after the end of each challenge**
+
+## **SDS Challenge #10** - Consumer Reviews
+
+```
+    ├── challenge.ipynb (challenge)
+    ├── data
+        ├── pred_reviews.csv (dataset to predict on)
+        └── public_reviews.csv (dataset to train and test)
+```
+
+
 ## **SDS Challenge #9** - Email Fraud
 
 ```
